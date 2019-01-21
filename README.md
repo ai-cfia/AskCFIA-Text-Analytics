@@ -1,6 +1,8 @@
-# AskCFIA-Text-Analytics-
-The AskCFIA website receives questions from corporations and individuals working with food, plants, and animals who require information from the CFIA (e.g. clarification on regulatory requirements). It is a website where workers in the commercial sector can ask open-ended questions to the CFIA about regulations and requirements. 
-In order for the questions received through the AskCFIA website to be answered, they are manually triaged into three levels based on their level or risk (High, Medium, and Low). 
-Our team was asked to collaborate on the creation of a machine learning model to accurately predict the level of risk (High, Medium, and Low) of the inquiries based on the text.
-The AskCFIA team reached out to the IRM Data Analytics, and Modelling team to ask for help with analyzing the data contained in the questions (the open text-field on their website). The primary goal of this project was to create an algorithm which could automatically predict the “risk level” of the question based on risk management characteristics, instead of requiring someone to do this task by hand. A secondary goal was to identify major subject topics across the dataset of questions so that the AskCFIA website can be updated with relevant information (in the form of FAQ sections). 
-This project fits in with two of the CFIA’s strategic priorities. The IRM priority is to develop new risk management tools, analytics and surveillance to inform resource allocations and enforcement priorities”. The “Digital-First Tools and Services” priority is to “provide electronic access as the preferred method of requesting and receiving services”.
+# AskCFIA-Text Analytics
+
+AskCFIA is one point of contact to the CFIA for industry (from local farmers to multinational corporations). It is a website where workers in the commercial sector can ask open-ended questions to the CFIA about regulations and requirements. 
+
+In order for the questions received through the AskCFIA website to be answered, they are manually triaged into three levels based on their complexity. 
+
+The primary goal of this project was to create an algorithm which could automatically predict the “level” of the question based on certain characteristics, instead of requiring someone to do this task by hand
+
