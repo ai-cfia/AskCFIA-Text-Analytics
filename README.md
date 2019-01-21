@@ -6,5 +6,6 @@ In order for the questions received through the AskCFIA website to be answered, 
 
 The primary goal of this project was to create a machine learning algorithm that could automatically and accurately predict the “level” of the question based on certain characteristics, instead of requiring someone to do this task by hand.
 
+The developed model forms the baseline for text analytics used in deployment on the AskCFIA website;However, future work can definitely improve the current model.
 
 
