@@ -4,7 +4,7 @@ AskCFIA is one point of contact to the CFIA for industry (from local farmers to 
 
 In order for the questions received through the AskCFIA website to be answered, they are manually triaged into three levels based on their complexity. 
 
-The primary goal of this project was to create a machine learning algorithm that could automatically and accurately predict the “level” of the question based on certain characteristics, instead of requiring someone to do this task by hand.
+The primary goal of this project was to create a machine learning algorithm (Using R Programming) that could automatically and accurately predict the “level” of the question based on certain characteristics, instead of requiring someone to do this task by hand.
 
 The developed model formed the baseline for text mining used in deployment on the AskCFIA website; However, future work can definitely improve the current model.
 
