@@ -1,11 +1,13 @@
 # AskCFIA-Text Analytics
 
-AskCFIA is one point of contact to the CFIA for industry (from local farmers to multinational corporations). It is a website where workers in the commercial sector can ask open-ended questions to the CFIA about regulations and requirements. 
+AskCFIA webpage is one point of entry for industry to ask questions (open-ended, unstructured texts in English or French) about regulatory requirements.
 
-In order for the questions received through the AskCFIA website to be answered, they are manually triaged into three levels based on their complexity. 
+These questions are triaged manually into three different levels, based on their complexity, before they are answered.
 
-The primary goal of this project was to create a machine learning algorithm (Using R Programming) that could automatically and accurately predict the “level” of the question based on certain characteristics, instead of requiring someone to do this task by hand.
+The primary goal of this project was to create a machine learning algorithm (Using R Programming) that could automatically and accurately predict the “level” of the question based on certain characteristics.
 
-The developed model formed the baseline for text mining used in deployment on the AskCFIA website; However, future work can definitely improve the current model.
+The current pilot project has produced a model that predicts whether a given question is level 1 or not (binary outcome), with accuracy of about 80%. Descriptive analysis of the text corpus were also conducted as part of this pilot.
+
+Further development of the model is being planned to increase the predictive accuracy and explore automated response-generation.
 
 
